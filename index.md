@@ -1,5 +1,4 @@
----
-layout: default
+# Data Science Portfolio
 ---
 
 ## About Me
