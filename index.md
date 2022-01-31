@@ -1,123 +1,50 @@
 ---
-layout: default
+layout: homepage
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## About Me
 
-[Link to another page](./another-page.html).
+I am a Software Developer at Amagi Corporation
 
-There should be whitespace between paragraphs.
+## Work Experience(2 years 6 months)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+- **Amagi Corporation (2021-P):** Improved and optimized platform's functionality to cut massive data management problem thereby saving storage cost
+- **Ericsson Global India Pvt Ltd(2020-2021):** Implemented, tested and deployed multiple modules to perform daily health checks of telecom nodes saving approx 100K SEK in operating expenditure
+- **Knowledge Lens Pvt Ltd(2020-2021):** Devised modules for data migration project from SQL to NoSQL to help user gain insights from existing data saving approx 1 million dollars per year
 
 
-### Definition lists can be used with HTML syntax.
+## Education
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+- **Master of Science in AI and ML** LJMU, UK and IIIT-B, Banglore, India
+- **Bachelor of Technology(Computer Science)** NIIT University, Neemrana, Rajasthan
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+## Projects
+
+- **Research on Cross Domain Recommendation Systems**
+  <br>
+  Developed 3 algorithms for improving the quality and speed of recommendations for a cross domain recommendation system.
+
+- **Real Time Data Analysis Using Apache Storm**
+  <br>
+  Collaborated on Geographical Analysis and Sentiment analysis on live stream tweets using the Twitter 4j API.
+  
+- **Predicted Severity of a Bug Reported**
+  <br>
+  Built modules to classify the bugs into different categories and predict the severity of the upcoming bugs for a dataset of 10000 records.
+
+## SKills
+
+- Go, Java, Python : Intermediate 
+- MySQL, NoSQL: Intermediate
+- Github: Advance
+- Linux: Intermediate
+- Beego, J2EE, Flask: Intermediate
+
+## Awards and Recognition
+
+- **Galactic Award**
+  Awarded for the most impactful team in terms of business delivery
+  
+- **Xlence Advocate Badge(IBM)**
+  Awarded for contributing in a fast paced development project on Data Science.
