@@ -1,123 +1,47 @@
----
-layout: default
----
+layout
+homepage
+##About Me
+I am a Software Engineer at Amagi Corporation.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Work Experience
 
-[Link to another page](./another-page.html).
+Amagi Corporation(2021-P):
+Software Engineer
+- Improved and optimized platform's functionality to cut massive data management problem thereby saving storage cost
+- Developed features, fixed bugs to echance platform's stability.
+- Aided in product support for resolving client's issues on a day to day basis
+- Tech Stack: Golang, Beego, Github, AWS
 
-There should be whitespace between paragraphs.
+Ericsson Global IndiaPrivate Ltd(2020-2021):
+Software Engineer
+- Implemented, tested and deployed multiple modules to perform daily health checks of telecom nodes saving approx 100K SEK in operating expenditure
+- Built web service with J2EE in an agile environment for keeping track of employee availability per project increasing 20% efficiency in management
+- Tech Stack: Java, Springboot, Groovy, Python, SQL , JIRA, Agile
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Knowledge Lens Pvt Ltd(2019-2020):
+Jr. Data Scientist
+- Devised modules for data migration project from SQL to NoSQL to help user gain insights from existing data saving approx 1 million dollars per year
+- Completed proof of concept for data handling capabilities of various graph database tools
+- Tech Stack: Python, AWS(S3/EC2/Athena), MongoDB, Neo4j, SPARQL, SQL, Flask, Bitbucket
 
-# Header 1
+Education:
+MS in AI and ML(Ongoing): LJMU and IIIT-B
+B.Tech: NIIT University
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Projects
 
-## Header 2
+Research on Cross Domain Recommendation Systems:
+  Developed 3 algorithms for improving the quality and speed of recommendations for a cross domain recommendation system.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Real Time Data Analysis Using Apache Storm:
+  Collaborated on Geographical Analysis and Sentiment analysis on live stream tweets using the Twitter 4j API.
 
-### Header 3
+Predicted Severity of a Bug Reported:
+  Built modules to classify the bugs into different categories and predict the severity of the upcoming bugs for a dataset of 10000 r
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+###Skills
+Golang, Java, Python, Groovy, MySQL, NoSQL, AWS, REST-API, Github
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+###Awards & Recognition
+- Galactic Award(2021): Awarded for the most impactful team in terms of business delivery
+- Xlence Advocate(IBM): Shortlisted in top 40 amongst 3000+ candidates for free course by ACM
