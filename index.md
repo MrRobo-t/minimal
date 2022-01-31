@@ -1,4 +1,4 @@
-# CoverLetter
+# Data Science Portfolio
 ---
 
 ## About Me
@@ -47,7 +47,7 @@ The aim of these notebooks is to present these interesting topics, by showing th
 The following article sections will briefly touch on LSTM neuron cells, give a toy example of predicting a sine wave then walk through the application to a stochastic time series. The article assumes a basic working knowledge of simple deep neural networks.
 
 
-## SKills
+## Skills
 
 - Go, Java, Python : Intermediate 
 - MySQL, NoSQL: Intermediate
